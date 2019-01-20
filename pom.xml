@@ -28,13 +28,13 @@
 		 <snapshotRepository>
 		    <id>deployment</id>
 			 <name>snapshot-releases</name>
-		    <url>http://13.233.172.65:8081/repository/maven-snapshots</url>
+		    <url>http://192.168.2.94:8081/repository/maven-snapshots</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>deployment</id>
 			<name>deployment releases</name>
-		    <url>http://13.233.172.65:8081/repository/devops_test_release/</url>
+		    <url>http://192.168.2.94:8081/repository/devops_test_release/</url>
 		</repository>
   	</distributionManagement>
 	
